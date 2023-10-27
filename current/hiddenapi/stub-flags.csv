@@ -4117,7 +4117,6 @@ Landroid/net/connectivity/framework/util/NetworkCapabilitiesUtils;->NET_CAPABILI
 Landroid/net/connectivity/framework/util/NetworkCapabilitiesUtils;->NET_CAPABILITY_VEHICLE_INTERNAL:I
 Landroid/net/connectivity/framework/util/NetworkCapabilitiesUtils;->NET_CAPABILITY_VSIM:I
 Landroid/net/connectivity/framework/util/NetworkCapabilitiesUtils;->RESTRICTED_CAPABILITIES:J
-Landroid/net/connectivity/framework/util/NetworkCapabilitiesUtils;->TRANSPORT_USB:I
 Landroid/net/connectivity/framework/util/NetworkCapabilitiesUtils;->UNRESTRICTED_CAPABILITIES:J
 Landroid/net/connectivity/framework/util/NetworkCapabilitiesUtils;->getDisplayTransport([I)I
 Landroid/net/connectivity/framework/util/NetworkCapabilitiesUtils;->inferRestrictedCapability(Landroid/net/NetworkCapabilities;)Z
